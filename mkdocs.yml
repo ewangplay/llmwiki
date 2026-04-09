@@ -1,6 +1,10 @@
 site_name: 窥猫君的个人进化系统
 site_description: 记录成功日记、工作日志与长期画像的个人知识站
-site_url: http://127.0.0.1:8000
+site_url: https://ewangplay.github.io/llmwiki/
+use_directory_urls: true
+repo_url: https://github.com/ewangplay/llmwiki
+edit_uri: ''
+
 theme:
   name: material
   language: zh
