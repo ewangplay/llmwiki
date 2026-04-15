@@ -22,11 +22,6 @@ nav:
   - 月报: monthly/index.md
   - 画像: profile/index.md
   - 主题: themes/index.md
-  - 想法: ideas/index.md
-  - 说明:
-      - 运行说明: notes/06-运行说明.md
-      - 长期架构说明: notes/07-长期架构说明.md
-      - MkDocs 设计方案: notes/08-MkDocs-Material-设计方案.md
 markdown_extensions:
   - admonition
   - attr_list
