@@ -21,7 +21,6 @@ nav:
   - 周报: weekly/index.md
   - 月报: monthly/index.md
   - 画像: profile/index.md
-  - 主题: themes/index.md
 markdown_extensions:
   - admonition
   - attr_list

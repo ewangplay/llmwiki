@@ -2,6 +2,6 @@
 <svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
   <rect width="1200" height="630" rx="48" fill="#111827"/>
   <text x="80" y="220" font-size="72" fill="#F9FAFB" font-family="Arial, Helvetica, sans-serif" font-weight="700">窥猫君的个人进化系统</text>
-  <text x="80" y="320" font-size="32" fill="#D1D5DB" font-family="Arial, Helvetica, sans-serif">Daily notes · Worklog · Long-term profile · Themes</text>
+  <text x="80" y="320" font-size="32" fill="#D1D5DB" font-family="Arial, Helvetica, sans-serif">Daily notes · Worklog · Long-term profile</text>
   <text x="80" y="410" font-size="24" fill="#9CA3AF" font-family="Arial, Helvetica, sans-serif">LLMWiki on MkDocs Material</text>
 </svg>
