@@ -6,6 +6,6 @@
 
 ## [最新周报](weekly/2026-07-26.md)
 
-## [最新月报](monthly/2026-06.md)
+## [最新月报](monthly/2026-07.md)
 
 ## [个人画像](profile/个人画像/index.md)
